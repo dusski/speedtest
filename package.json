@@ -1,0 +1,23 @@
+{
+  "name": "speedtest",
+  "version": "1.0.0",
+  "description": "An automatic speedtest.net speed tester",
+  "main": "main.js",
+  "scripts": {
+    "test": "node main.js"
+  },
+  "keywords": [
+    "speed",
+    "test",
+    "net",
+    "tester",
+    "internet",
+    "speed"
+  ],
+  "author": "Dusan S",
+  "license": "ISC",
+  "dependencies": {
+    "chrome-finder": "^1.0.2",
+    "puppeteer": "^1.0.0"
+  }
+}
